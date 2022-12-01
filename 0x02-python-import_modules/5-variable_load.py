@@ -2,8 +2,9 @@
 from variable_load_5 import a
 
 
-def main():
+idef main():
     print(a)
+
 
 if __name__ == "__main__":
     main()
