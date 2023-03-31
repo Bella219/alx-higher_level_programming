@@ -5,6 +5,7 @@ email as a parameter, and displays the body of the response
 """
 import sys
 import urllib
+import urllib.parse
 
 if __name__ == '__main__':
     url = sys.argv[1]
